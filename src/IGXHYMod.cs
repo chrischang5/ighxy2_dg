@@ -5,10 +5,10 @@ using System.Text;
 using System.Reflection;
 
 // The title of your mod, as displayed in menus
-[assembly: AssemblyTitle("My Custom Mod")]
+[assembly: AssemblyTitle("IGHXY2")]
 
 // The author of the mod
-[assembly: AssemblyCompany("Me, The Creator")]
+[assembly: AssemblyCompany("Blue")]
 
 // The description of the mod
 [assembly: AssemblyDescription("This Mod Does All The Things!")]
@@ -16,9 +16,9 @@ using System.Reflection;
 // The mod's version
 [assembly: AssemblyVersion("1.0.0.0")]
 
-namespace DuckGame.MyMod
+namespace DuckGame.IGHXY
 {
-    public class MyMod : Mod
+    public class IGXHYMod : Mod
     {
 		// The mod's priority; this property controls the load order of the mod.
 		public override Priority priority
