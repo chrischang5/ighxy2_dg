@@ -1,0 +1,8 @@
+.vs/
+
+# build outputs
+build/
+*_compiled.dll
+*_compiled.hash
+
+mod.conf
